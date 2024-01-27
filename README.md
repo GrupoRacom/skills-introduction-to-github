@@ -20,9 +20,7 @@ _Get started using GitHub in less than an hour._
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-## Edición para mi primer Branch, 
-##REalizado por Roberto Romero
-el anterior no lo he grabado bien, se me fue al main
+
 ## Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
